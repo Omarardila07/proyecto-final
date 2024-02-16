@@ -1,0 +1,76 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,700;1,300&display=swap');
+
+body {
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+    font-size: 14px;
+    line-height: 1.43;
+    color: #222;
+    background-color: #fff;
+    margin: 0;
+    -webkit-font-smoothing: antialiased;
+}
+
+.air {
+    color: #FF385C;
+}
+
+.prin {
+    gap: 20%;
+}
+
+.pepito {
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.lista {
+    gap: 50px;
+}
+
+.nani {
+    border-radius: 30px 30px 30px 30px;
+}
+
+.search {
+    background-color: #E41D55;
+}
+
+.triki {
+    border: 0;
+}
+
+@keyframes slideIn {
+    from {
+      opacity: 0;
+      transform: translateY(-50px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  .animate-slideIn {
+    animation: slideIn 0.3s ease forwards;
+  }
+  
+/* Estilos del scrollbar */
+::-webkit-scrollbar {
+    width: 12px; /* Ancho del scrollbar */
+  }
+  
+  /* Estilo del fondo del scrollbar */
+  ::-webkit-scrollbar-track {
+    background: #FF385C; /* Color del fondo del scrollbar */
+  }
+  
+  /* Estilo del thumb del scrollbar */
+  ::-webkit-scrollbar-thumb {
+    background: rgba(255, 255, 255, 0.5); /* Color del thumb del scrollbar */
+    border-radius: 6px; /* Bordes redondeados del thumb */
+  }
+  
+
+
+  

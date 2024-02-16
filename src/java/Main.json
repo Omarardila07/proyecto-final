@@ -1,0 +1,2992 @@
+{
+  "bienes_por_vender": [
+    {
+      "properties": {
+        "ID": "1",
+        "image1": "https://photos.zillowstatic.com/fp/125de289b010445880f089fbbd5c7244-cc_ft_768.webp",
+        "image2": "https://photos.zillowstatic.com/fp/f3d740f17bb63f120c2da62672a18117-cc_ft_384.webp",
+        "image3": "https://photos.zillowstatic.com/fp/d1f2c7a96a84e162127e9d9697501ee0-cc_ft_384.webp",
+        "image4": "https://photos.zillowstatic.com/fp/1567be191fec7f9b7f180f2e1478bc95-cc_ft_384.webp",
+        "image5": "https://photos.zillowstatic.com/fp/029ba42a7b749843127a17177884ac6e-cc_ft_384.webp",
+        "Cost": "400,000",
+        "baths": "4 baths",
+        "sqft": "3,778 sqft",
+        "beds": "4 baths",
+        "Built": "Built in 1965",
+        "Acreslot": "0.63 Acres lot",
+        "HOA": "$-- HOA",
+        "SingleFamilyResidence": "Single Family Residence",
+        "description": "6417 N 52nd Pl, Paradise Valley, AZ 85253",
+        "for sale": "for sale",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": [33.5286, -111.9614]
+      }
+    },
+    {
+      "properties": {
+        "ID": "2",
+        "image1": "https://photos.zillowstatic.com/fp/eac6ea4b5e1c9c57b5f1c582263e5227-cc_ft_768.webp",
+        "image2": "https://photos.zillowstatic.com/fp/18101ec10a43f974a4b9ed6e7ee9c7b2-cc_ft_384.webp",
+        "image3": "https://photos.zillowstatic.com/fp/1faca5cf5447359d7a85a31fa6e27b4f-cc_ft_384.webp",
+        "image4": "https://photos.zillowstatic.com/fp/574fb7ba9a9eb04caf8ea75aaf2a8b50-cc_ft_384.webp",
+        "image5": "https://photos.zillowstatic.com/fp/b8254e9886b92602a03dd8fb40167b72-cc_ft_384.webp",
+        "Cost": "$300.000",
+        "baths": "4 baths",
+        "sqft": "6,298 sqft",
+        "beds": "4 beds",
+        "Built": "Built in 1986",
+        "Acreslot": "1.05 Acres lot",
+        "HOA": "$142/mo HOA",
+        "SingleFamilyResidence": "Single Family Residence",
+        "description": "8867 N 63rd Pl, Paradise Valley, AZ 85253",
+        "for sale": "for sale",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": [33.5343, -111.9462]
+      }
+    },
+    {
+      "properties": {
+        "ID": "3",
+        "image1": "https://photos.zillowstatic.com/fp/9d6d322df49e373f1c9eaa1f79c39b79-cc_ft_768.webp",
+        "image2": "https://photos.zillowstatic.com/fp/ede11fdadf0ab5df58369dbe0329be90-cc_ft_384.webp",
+        "image3": "https://photos.zillowstatic.com/fp/1adb70a2daa7f0f16d48859f833e16dd-cc_ft_384.webp",
+        "image4": "https://photos.zillowstatic.com/fp/385e21767739be16cec8c25d4f161b6b-cc_ft_384.webp",
+        "image5": "https://photos.zillowstatic.com/fp/9efa306a43f2f801bcc68bbba4528953-cc_ft_384.webp",
+        "Cost": "$500.000",
+        "baths": "5 baths",
+        "sqft": "4,845 sqf",
+        "beds": "4 beds",
+        "Built": "Built in 1979",
+        "Acreslot": "1.17 Acres lot",
+        "HOA": "$-- HOA",
+        "SingleFamilyResidence": "Single Family Residence",
+        "description": "5460 E Desert Jewel Dr, Paradise Valley, AZ 85253",
+        "for sale": "for sale",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": [33.5504, -111.9631]
+      }
+    },
+    {
+      "properties": {
+        "ID": "4",
+        "image1": "https://photos.zillowstatic.com/fp/a83d022a33b025a745960f2822b241a3-cc_ft_768.webp",
+        "image2": "https://photos.zillowstatic.com/fp/a4b946f4c630f8736a8b44d2c379c7eb-cc_ft_384.webp",
+        "image3": "https://photos.zillowstatic.com/fp/287254b1e3d7818652d0a6862b244d50-cc_ft_384.webp",
+        "image4": "https://photos.zillowstatic.com/fp/afc3befa4b64dde105f74c5b0ec42e82-cc_ft_384.webp",
+        "image5": "https://photos.zillowstatic.com/fp/41dfdb62707cffdd0c41bfdb39ea684d-cc_ft_384.webp",
+        "Cost": "$352.000",
+        "baths": "5 baths",
+        "sqft": "6,284 sqft",
+        "beds": "3 beds",
+        "Built": "Built in 1999",
+        "Acreslot": "1.00 Acres lot",
+        "HOA": "$-- HOA",
+        "SingleFamilyResidence": "Single Family Residence",
+        "description": "9790 N 56th St, Paradise Valley, AZ 85253",
+        "for sale": "for sale",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": [33.5732, -111.9568]
+      }
+    },
+    {
+      "properties": {
+        "ID": "5",
+        "image1": "https://photos.zillowstatic.com/fp/f13b9cf809a29c1a4e427046c7905704-cc_ft_768.webp",
+        "image2": "https://photos.zillowstatic.com/fp/cd772d3380f6acfec94e33497e5a4ecd-cc_ft_384.webp",
+        "image3": "https://photos.zillowstatic.com/fp/59e1dc66e5cec142182e6067111bb17e-cc_ft_384.webp",
+        "image4": "https://photos.zillowstatic.com/fp/2b6c768a34097ad562aa44d6572afc00-cc_ft_384.webp",
+        "image5": "https://photos.zillowstatic.com/fp/4f2131108e0a40378dc281c970e9ab6d-cc_ft_384.webp",
+        "Cost": "$225.000",
+        "baths": "3 baths",
+        "sqft": "2,432 sqft",
+        "beds": "3 beds",
+        "Built": "Built in 2008",
+        "Acreslot": "2,432 sqft lot",
+        "HOA": "$-- HOA",
+        "SingleFamilyResidence": "Single Family Residence",
+        "description": "6000 E Camelback Rd #7707, Scottsdale, AZ 85251",
+        "for sale": "for sale",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": [33.5034, -111.9290]
+      }
+    },
+    {
+      "properties": {
+        "ID": "6",
+        "image1": "https://photos.zillowstatic.com/fp/9891d04514d9a35a20b896b2059a93a7-cc_ft_768.webp",
+        "image2": "https://photos.zillowstatic.com/fp/4d4629dd85dca10926e72d4a937e46d2-cc_ft_384.webp",
+        "image3": "https://photos.zillowstatic.com/fp/50a5a048d9bf0955354ada66a9713301-cc_ft_384.webp",
+        "image4": "https://photos.zillowstatic.com/fp/b2e6e75fa2a1d7c2100325766a8965e5-cc_ft_384.webp",
+        "image5": "https://photos.zillowstatic.com/fp/b5893b3a873bfa3abc1377d1813d7c74-cc_ft_384.webp",
+        "Cost": "$690.000",
+        "baths": "2 baths",
+        "sqft": "2,000 sqft",
+        "beds": "3 beds",
+        "Built": "Built in 1979",
+        "Acreslot": "5,726 sqft lot",
+        "HOA": "$72/mo HOA",
+        "SingleFamilyResidence": "Single Family Residence",
+        "description": "7257 E Loma Ln, Scottsdale, AZ 85258",
+        "for sale": "For sale",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": [33.5496, -111.9093]
+      }
+    },
+    {
+      "properties": {
+        "ID": "7",
+        "image1": "https://photos.zillowstatic.com/fp/6b1dccbf0945020bf5417083d21daa61-cc_ft_768.webp",
+        "image2": "https://photos.zillowstatic.com/fp/85690b3336d5b839484042e482fd716c-cc_ft_384.webp",
+        "image3": "https://photos.zillowstatic.com/fp/e8f6a6d82e78879f1f44b1f8fb8b0ae3-cc_ft_384.webp",
+        "image4": "https://photos.zillowstatic.com/fp/7b9dc693c1fdd982c29baed9aa88d91a-cc_ft_384.webp",
+        "image5": "https://photos.zillowstatic.com/fp/f000cb8569ee1ccd9e0a9bcd53535f49-cc_ft_384.webp",
+        "Cost": "$255.000",
+        "baths": "1 baths",
+        "sqft": "702 sqft",
+        "beds": "2 beds",
+        "Built": "Built in 1937",
+        "Acreslot": "5,534 sqft lot",
+        "HOA": "$-- HOA",
+        "SingleFamilyResidence": "Single Family Residence",
+        "description": "8810 N 4th St, Phoenix, AZ 85020",
+        "for sale": "for sale",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": [33.5642, -112.0692]
+      }
+    },
+    {
+      "properties": {
+        "ID": "8",
+        "image1": "https://photos.zillowstatic.com/fp/658c798014ab37e5734f07506c62d7ff-cc_ft_768.webp",
+        "image2": "https://photos.zillowstatic.com/fp/f3964628e5980e5fb9289ed8b57dc3a1-cc_ft_384.webp",
+        "image3": "https://photos.zillowstatic.com/fp/38ab0791667ab8e5478d95e1fe10894a-cc_ft_384.webp",
+        "image4": "https://photos.zillowstatic.com/fp/c4cd28f4a4c1cf4705ef29fbfba9f2f4-cc_ft_384.webp",
+        "image5": "https://photos.zillowstatic.com/fp/4a67e47e2b1b18230f15961626f14733-cc_ft_384.webp",
+        "Cost": "$629.000",
+        "baths": "2 baths",
+        "sqft": "1,335 sqft",
+        "beds": "3 beds",
+        "Built": "Built in 1974",
+        "Acreslot": "229 sqft lot",
+        "HOA": "$401/mo HOA",
+        "SingleFamilyResidence": "Single Family Residence",
+        "description": "8756 E Via Taz Norte, Scottsdale, AZ 85258",
+        "for sale": "for sale",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": [33.5556, -111.8907]
+      }
+    },
+    {
+      "properties": {
+        "ID": "9",
+        "image1": "https://photos.zillowstatic.com/fp/4e785a4da19e44fda2d8a311b4de0ef3-cc_ft_768.webp",
+        "image2": "https://photos.zillowstatic.com/fp/dd7f3ab71ec975f565c2a388846e3924-cc_ft_384.webp",
+        "image3": "https://photos.zillowstatic.com/fp/f33bc7ac771e1750814cdbfc983a0487-cc_ft_384.webp",
+        "image4": "https://photos.zillowstatic.com/fp/a3cf34ac1c49fc30970fbc31a22ca1d2-cc_ft_384.webp",
+        "image5": "https://photos.zillowstatic.com/fp/0448e1e50f287faa8a5cca06c640fe9c-cc_ft_384.webp",
+        "Cost": "$689.000",
+        "baths": "2 baths",
+        "sqft": "1,349 sqft",
+        "beds": "2 beds",
+        "Built": "Built in 1974",
+        "Acreslot": "2,880 sqft lot",
+        "HOA": "$409/mo HOA",
+        "SingleFamilyResidence": "Single Family Residence",
+        "description": "7269 N Via Nueva, Scottsdale, AZ 85258",
+        "for sale": "for sale",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": [33.5595, -111.8852]
+      }
+    },
+    {
+      "properties": {
+        "ID": "10",
+        "image1": "https://photos.zillowstatic.com/fp/214f3c3684955fc2f10c0dd26327af92-cc_ft_768.webp",
+        "image2": "https://photos.zillowstatic.com/fp/5177f0fa6e37de17ccb9d2f9de5d4f08-cc_ft_384.webp",
+        "image3": "https://photos.zillowstatic.com/fp/520d9b5bba2a4208cc12eb70a9275713-cc_ft_384.webp",
+        "image4": "https://photos.zillowstatic.com/fp/a5991e488a9a62e9452a6e58af53f756-cc_ft_384.webp",
+        "image5": "https://photos.zillowstatic.com/fp/b03bd2f4c390aea8c4923781c03fa198-cc_ft_384.webp",
+        "Cost": "$137.000",
+        "baths": "3 baths",
+        "sqft": "2,148 sqft",
+        "beds": "4 beds",
+        "Built": "Built in 1963",
+        "Acreslot": "7,070 sqft lot",
+        "HOA": "$-- HOA",
+        "SingleFamilyResidence": "Single Family Residence",
+        "description": "8531 E Keim Dr, Scottsdale, AZ 85250",
+        "for sale": "for sale",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": [33.5135, -111.8949]
+      }
+    }
+  ],
+  "bienes_Renta": [
+    {
+      "properties": {
+        "ID": "11",
+        "image1": "https://photos.zillowstatic.com/fp/39cc3decac1f2f5e583caac35460a8a8-cc_ft_768.webp",
+        "image2": "https://photos.zillowstatic.com/fp/25cbe7f92b6181ac5bd704e5468e8745-cc_ft_768.webp",
+        "image3": "https://photos.zillowstatic.com/fp/59bffff17ac913e25b6facb864f04131-cc_ft_384.webp",
+        "image4": "https://photos.zillowstatic.com/fp/753d73e71b3207ee8c21d7770fef474c-cc_ft_384.webp",
+        "image5": "https://photos.zillowstatic.com/fp/0c0f8c17c47ffbc9161eef63fb32f36b-cc_ft_384.webp",
+        "Cost": "$500.000",
+        "baths": "8 baths",
+        "sqft": "10,676 sqft",
+        "beds": "6 beds",
+        "Built": "Built in 1997",
+        "Acreslot": "1.21 Acres lot",
+        "HOA": "$300/mo HOA",
+        "SingleFamilyResidence": "Single Family Residence",
+        "description": "7291 N 71st Pl, Paradise Valley, AZ 85253",
+        "rent": "For rent",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": [33.5361, -111.9317]
+      }
+    },
+    {
+      "properties": {
+        "ID": "12",
+        "image1": "https://photos.zillowstatic.com/fp/1d0664b244a753087114d249a66195b9-cc_ft_768.webp",
+        "image2": "https://photos.zillowstatic.com/fp/10392c72a1e066409b4d741e5a0555ee-cc_ft_384.webp",
+        "image3": "https://photos.zillowstatic.com/fp/eacdc288a415fe6711e573c32ef5c97e-cc_ft_768.webp",
+        "image4": "https://photos.zillowstatic.com/fp/701425192c96fe9daf43f2120f78a58c-cc_ft_384.webp   ",
+        "image5": "https://photos.zillowstatic.com/fp/e22a4cf6993040dd7339a5f994515c58-cc_ft_768.webp",
+        "Cost": "$5,972,400",
+        "baths": "6 baths",
+        "sqft": "4,625 sqft",
+        "beds": "4 beds",
+        "Built": "Built in 2025",
+        "Acreslot": "0.39 Acres lot",
+        "HOA": "$483/mo HOA",
+        "SingleFamilyResidence": "Single Family Residence",
+        "description": "7141 E Ironwood Dr, Paradise Valley, AZ 85253",
+        "rent": "For rent",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": [33.5525, -111.9367]
+      }
+    },
+    {
+      "properties": {
+        "ID": "13",
+        "image1": "https://photos.zillowstatic.com/fp/99137e144ba276e6b4282ac35a8a8bfe-cc_ft_768.webp",
+        "image2": "https://photos.zillowstatic.com/fp/624f1776cf2932fdbc4e325833c13b2f-cc_ft_768.webp",
+        "image3": "https://photos.zillowstatic.com/fp/ffb8637be4ff870b8adf785abbeb3761-cc_ft_384.webp",
+        "image4": "https://photos.zillowstatic.com/fp/118cb787e39ff3283a3ebb58a8cf4228-cc_ft_384.webp",
+        "image5": "https://photos.zillowstatic.com/fp/d7f42d2f25c8aebdb9157d8699f3dfc8-cc_ft_768.webp",
+        "Cost": "$2,500,000",
+        "baths": "6 baths",
+        "sqft": "4,415 sqft",
+        "beds": "5 beds",
+        "Built": "Built in 2003",
+        "Acreslot": "0.31 Acres lot",
+        "HOA": "$188/mo HOA",
+        "SingleFamilyResidence": "Single Family Residence",
+        "description": "8832 E Wethersfield Rd, Scottsdale, AZ 85260",
+        "rent": "For rent",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": [33.6091, -111.8738]
+      }
+    },
+    {
+      "properties": {
+        "ID": "14",
+        "image1": "https://photos.zillowstatic.com/fp/c8ba74d4fac169dee17b5d9287505a4a-cc_ft_768.webp",
+        "image2": "https://photos.zillowstatic.com/fp/9b999eb8de7c354ddcff424bc26fd469-cc_ft_384.webp",
+        "image3": "https://photos.zillowstatic.com/fp/f6f769e6192c557a452b26fad64401ba-cc_ft_384.webp",
+        "image4": "https://photos.zillowstatic.com/fp/4b0ca1fcda910c8186423f2bc7ab9d2b-cc_ft_384.webp",
+        "image5": "https://photos.zillowstatic.com/fp/579aabde0c60b2e2373c6de3b68be171-cc_ft_384.webp",
+        "Cost": "",
+        "baths": "2 baths",
+        "sqft": "1,380 sqft",
+        "beds": "3 beds",
+        "Built": "Built in 1966",
+        "Acreslot": "6,994 sqft lot",
+        "HOA": "$-- HOA",
+        "SingleFamilyResidence": "Single Family Residence",
+        "description": "6326 N 86th St, Scottsdale, AZ 85250",
+        "rent": "For rent",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": [33.5309, -111.8961]
+      }
+    },
+    {
+      "properties": {
+        "ID": "15",
+        "image1": "https://photos.zillowstatic.com/fp/de0319911ed88e78818d6b5cc6d42608-cc_ft_768.webp",
+        "image2": "https://photos.zillowstatic.com/fp/a21695fcf0fd2585195884bb40af2e99-cc_ft_384.webp",
+        "image3": "https://photos.zillowstatic.com/fp/1c72ce8d780633884f12463f8b3e6d10-cc_ft_384.webp",
+        "image4": "https://photos.zillowstatic.com/fp/99cbd60ccfb08686fd6e211238e7aad9-cc_ft_384.webp",
+        "image5": "https://photos.zillowstatic.com/fp/54ed2181d3444ddf4f20ccbd1ef1d6fa-cc_ft_384.webp",
+        "Cost": "$880,000",
+        "baths": "2 baths",
+        "sqft": "1,632 sqft",
+        "beds": "3 beds",
+        "Built": "Built in 1974",
+        "Acreslot": "0.26 Acres lot",
+        "HOA": "$21/mo HOA",
+        "SingleFamilyResidence": "Single Family Residence",
+        "description": "8324 E Via De Sereno, Scottsdale, AZ 85258",
+        "rent": "For rent",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": [33.5457, -111.9051]
+      }
+    },
+    {
+      "properties": {
+        "ID": "16",
+        "image1": "https://photos.zillowstatic.com/fp/49d0346fc6029acacfc1fd2dc728119f-cc_ft_768.webp",
+        "image2": "https://photos.zillowstatic.com/fp/c012cf37038ba47cc47385bc61aa91a3-cc_ft_384.webp",
+        "image3": "https://photos.zillowstatic.com/fp/ed4d323d53b369e5cfcc51c4828797fa-cc_ft_384.webp",
+        "image4": "https://photos.zillowstatic.com/fp/34df839a035b734b2e752d4fbed3be1f-cc_ft_384.webp",
+        "image5": "https://photos.zillowstatic.com/fp/a03c1bacbce24ac99e366b6d4cd3734a-cc_ft_384.webp",
+        "Cost": "$1,595,000",
+        "baths": "3 baths",
+        "sqft": "2,798 sqft",
+        "beds": "5 beds",
+        "Built": "Built in 1986",
+        "Acreslot": "10,002 sqft lot",
+        "HOA": "$39/mo HOA",
+        "SingleFamilyResidence": "Single Family Residence",
+        "description": "10248 E San Salvador Dr, Scottsdale, AZ 85258",
+        "rent": "For rent",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": [33.5738, -111.8861]
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "rent": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "rent": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "rent": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "rent": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "rent": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "rent": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "rent": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "rent": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "rent": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "rent": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "rent": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "rent": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "rent": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "rent": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "rent": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "rent": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "rent": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "rent": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "rent": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "rent": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "rent": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "rent": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "rent": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "rent": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "rent": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "rent": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "rent": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "rent": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "rent": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "rent": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "rent": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "rent": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "rent": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "rent": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "rent": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "rent": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "rent": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "rent": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "rent": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "rent": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "rent": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "rent": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "rent": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "rent": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "rent": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "rent": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "rent": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "rent": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "rent": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "rent": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "rent": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "rent": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    }
+  ],
+  "bienes_Sold": [
+    {
+      "properties": {
+        "ID": "8",
+        "image1": "https://photos.zillowstatic.com/fp/f9aaf53929a4f52475de863477f07771-cc_ft_768.webp",
+        "image2": "https://photos.zillowstatic.com/fp/3d199869488b68d5a2171fc456d45457-cc_ft_768.webp",
+        "image3": "https://photos.zillowstatic.com/fp/57b4ad02ea03db018c8ca05221b89f82-cc_ft_384.webp",
+        "image4": "https://photos.zillowstatic.com/fp/d9e7bb1bfdce7223bda0a65c9e5faaba-cc_ft_768.webp",
+        "image5": "https://photos.zillowstatic.com/fp/4e3580ef369277ee7dd0606d6ed98e30-cc_ft_384.webp",
+        "Cost": "$2,100,000",
+        "baths": "5 baths",
+        "sqft": "5,357 sqft",
+        "beds": "6 beds",
+        "Built": "Built in 2004",
+        "Acreslot": "0.33 Acres lot",
+        "HOA": "$182/mo HOA",
+        "SingleFamilyResidence": "Single Family Residence",
+        "description": "9869 E Davenport Dr, Scottsdale, AZ 85260",
+        "Sold": "Sold",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": [33.6169, -111.8743]
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "sold": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "sold": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "sold": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "sold": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "sold": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "sold": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "sold": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "sold": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "sold": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "sold": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "sold": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "sold": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "sold": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "sold": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "sold": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "sold": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "sold": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "sold": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "sold": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "sold": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "sold": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "sold": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "sold": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "sold": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "sold": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "sold": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "sold": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "sold": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "sold": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "sold": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "sold": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "sold": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "sold": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "sold": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "sold": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "sold": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "sold": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "sold": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "sold": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "sold": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "sold": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "sold": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "sold": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "sold": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "sold": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "sold": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "sold": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "sold": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "sold": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "sold": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "sold": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "sold": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "sold": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "sold": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    },
+    {
+      "properties": {
+        "ID": "",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "Cost": "",
+        "baths": "",
+        "sqft": "",
+        "beds": "",
+        "Built": "",
+        "Acreslot": "",
+        "HOA": "",
+        "SingleFamilyResidence": "",
+        "description": "",
+        "sold": "",
+        "HomeType": ""
+      },
+      "geometry": {
+        "coordinates": []
+      }
+    }
+  ]
+}

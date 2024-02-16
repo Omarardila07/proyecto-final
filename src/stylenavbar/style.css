@@ -1,0 +1,19 @@
+@media screen and (max-width: 747px) {
+   .pppp {
+    flex-direction: column;
+    font-size: 15px;
+   }
+
+   .trata {
+    font-size: 12px;
+   }
+
+   .imgg {
+    display: none;
+   }
+
+   .pepete {
+        display: none;
+   }
+}
+  
